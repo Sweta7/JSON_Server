@@ -1,91 +1,57 @@
 [{
-  "d": {
     "data": [{
       "txt": {
         "t": "1",
         "val": "This is the PRO"
       },
       "sourceID": 1
-    }],
-    "session": 12345,
-    "tos": "LIVE_PERSISTENT"
-  }
+    }]
 }, {
-  "d": {
     "data": [{
       "txt": {
         "t": "2",
         "val": "This is the UMP 1"
       },
       "sourceID": 2
-    }, {
-      "txt": {
-        "t": "3",
-        "val": "and my name is Bob"
-      },
-      "sourceID": 2
-    }],
-    "session": 12345,
-    "tos": "LIVE_PERSISTENT"
-  }
+    }]
 }, {
-  "d": {
     "data": [{
       "txt": {
         "t": "4",
         "val": "Hey look over there!"
       },
       "sourceID": 1
-    }],
-    "session": 12345,
-    "tos": "LIVE_PERSISTENT"
-  }
+    }]
 }, {
-  "d": {
     "data": [{
       "txt": {
         "t": "5",
         "val": "What?!"
       },
       "sourceID": 2
-    }],
-    "session": 12345,
-    "tos": "LIVE_PERSISTENT"
-  }
+    }]
 }, {
-  "d": {
     "data": [{
       "txt": {
         "t": "6",
         "val": "A whale!!!"
       },
       "sourceID": 1
-    }],
-    "session": 12345,
-    "tos": "LIVE_PERSISTENT"
-  }
+    }]
 }, {
-  "d": {
     "data": [{
       "txt": {
         "t": "7",
         "val": "Commentator here. Pretty sure that's a dolphin."
       },
       "sourceID": 3
-    }],
-    "session": 12345,
-    "tos": "LIVE_PERSISTENT"
-  }
+    }]
 }, {
-  "d": {
     "data": [{
       "txt": {
         "t": "8",
         "val": "In the past few decades, Maori society has been under pressure and threat of extinction by the dominant non Maori, or Pakeha worldview (Van Meijl, 2006). Thus, the influence of Pakeha on Maori culture in contemporary New Zealand is one of the most popular themes in Maori literature. Recognized as the first published Maori novelist, Witi Ihimaera has written a great number of stories, most of which focus on problems within modern Maori society (Wikipedia, n.d.). The Whale (1987) is one of his master works. This essay will discuss the key theme and language features of this short story and explore the significance of the main setting.\n\nThe setting of the sun, the fading of light in the meeting house, the dying of the stranded whale, all these scenarios build up the theme of the story, the passing of the Maori culture (Talbot, n.d.). Two main symbols are adopted by the author as the metaphor of the fading Maori culture. One is the meeting house which is a recurring symbol throughout the story. For the kaumatua, this meeting house is not only a place where “lies his family and memories”, but it also represents “the body of a tipuna, an ancestor”. It used to be a place full of respect and aroha which binds the family together as one. However, the Maori people now are more attracted by the Pakeha world and show no respect to the meeting house. For example, the young Maori even refuse to “take their shoes off before coming into this meeting house”. Therefore, the kaumatua placed all his hopes on Hera, his niece, and “taught her all he knew”. Nonetheless, even Hera “like many of the other young people, had gone away to the city”. The other symbol is the stranded dying whale at the end of the story. The gulls surrounding the whale represents the decaying of Maori culture “he sees that it is a whale, stranded in the breakwater, threshing in the sand, already stripped of flesh by the falling gulls”. Meanwhile, the shout of the kaumatua against the gulls symbolizes the old one’s efforts of trying to avoid the Maori culture being lost.\n\nThe language used in “The Whale” has profound implications with respect to Maori culture. Firstly, the writer makes considerable use of Maori words and idioms. For example, an ancient saying he mentions in the story is “Kei muri I te awe kapara he tangata ke”. The Maori language used here has three purposes. The first is to show the writer’s pride in and love for Maori culture, while the second is to attract both Pakeha and Maori readers. Last but not least purpose is that it seems the best way to help Maori culture return from the margins to mainstream culture. This can be deduced from Witi Ihimaera’s (1992) claims that “Because if we cannot interpret our needs to the Pakeha in power then we will never, ever, advance the causes of the Pacific”. Secondly, the brief and straightforward dialogue shows the idiomatic speech of Maori. When the kaumatua presents the whakapapa to Hera, he says “And see this space? You put my name there when I die”. This conversation which uses elliptical construction and omits the subject exposes unique features of Maori language. Finally, some vivid pictures are presented through parallel structures and repetitive sentences. For example, when the kaumatua managed to open the door to the storeroom with the axe, the writer descries the process with “Aue… Aue… Aue… Aue…” and uses the verbs such as “blow upon, streaming, splintering”. These languages accurately reproduce the extinction of his final hopes."
       },
       "sourceID": 4
-    }],
-    "session": 12345,
-    "tos": "LIVE_PERSISTENT"
-  }
+    }]
 }]
