@@ -1,37 +1,37 @@
 [{
-    "data": {
-        "t": "1",
-        "val": "This is the PRO"
-      "sourceID": 1
-    }
+  "data": {
+      "t": "1",
+      "val": "This is the PRO",
+    "sourceID": 1
+  }
 }, {
-    "data": {
-        "t": "2",
-        "val": "This is the UMP 1"
+  "data": {
+      "t": "2",
+      "val": "This is the UMP 1",
+    "sourceID": 2
+  }
+}, {
+  "data": {
+      "t": "4",
+      "val": "Hey look over there!",
+    "sourceID": 1
+  }
+}, {
+  "data": {
+      "t": "5",
+      "val": "What?!",
       "sourceID": 2
-    }
+  }
 }, {
-    "data": {
-        "t": "4",
-        "val": "Hey look over there!"
+  "data": {
+      "t": "6",
+      "val": "A whale!!!",
       "sourceID": 1
-    }
+  }
 }, {
-    "data": {
-        "t": "5",
-        "val": "What?!"
-        "sourceID": 2
-    }
-}, {
-    "data": {
-        "t": "6",
-        "val": "A whale!!!"
-        "sourceID": 1
-    }
-}, {
-    "data": {
-        "t": "7",
-        "val": "Commentator here. Pretty sure that's a dolphin."
-      "sourceID": 3
-    }
+  "data": {
+      "t": "7",
+      "val": "Commentator here. Pretty sure that's a dolphin.",
+    "sourceID": 3
+  }
 }]
